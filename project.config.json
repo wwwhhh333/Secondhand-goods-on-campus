@@ -1,36 +1,28 @@
 {
-	"description": "项目配置文件。",
-	"packOptions": {
-		"ignore": []
-	},
-	"setting": {
-		"urlCheck": false,
-		"es6": true,
-		"postcss": true,
-		"minified": true,
-		"newFeature": true
-	},
-	"compileType": "miniprogram",
-	"libVersion": "2.2.1",
-	"appid": "wxb76b1312539700f0",
-	"projectname": "%E5%94%A4%E5%AE%9D%E4%B8%BB%E9%A1%B9%E7%9B%AEGitHub",
-	"isGameTourist": false,
-	"condition": {
-		"search": {
-			"current": -1,
-			"list": []
-		},
-		"conversation": {
-			"current": -1,
-			"list": []
-		},
-		"game": {
-			"currentL": -1,
-			"list": []
-		},
-		"miniprogram": {
-			"current": -1,
-			"list": []
-		}
-	}
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.6.0",
+  "appid": "wx66834f7b53202fc1",
+  "projectname": "%E5%94%A4%E5%AE%9D%E4%B8%BB%E9%A1%B9%E7%9B%AEGitHub",
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "auto",
+    "tabSize": 2
+  }
 }
