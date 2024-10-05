@@ -42,7 +42,7 @@
     "navigationBarBackgroundColor": "#1E68C9",
     "backgroundTextStyle": "dark",
     "navigationBarTitleText": "校园二手交易",
-    "navigationBarTextStyle": "#fff",
+    "navigationBarTextStyle": "black",
     "enablePullDownRefresh": true
   },
   "tabBar": {
